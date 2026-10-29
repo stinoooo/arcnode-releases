@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "gameId": "exit-only",
+  "version": "0.4.0",
+  "channel": "stable",
+  "platform": "windows-x64",
+  "releasedAt": "2026-10-29T19:31:29.468Z",
+  "engine": "Godot 4.7",
+  "package": {
+    "url": "https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.4.0/exit-only-0.4.0-windows-x64.zip",
+    "size": 57178111,
+    "sha256": "39175c3205e97a74b1b74673f3b5c3fe72ccae295b6ca385ec230e4bd9275b72",
+    "format": "zip"
+  },
+  "files": [
+    {
+      "path": "ExitOnly.exe",
+      "size": 109180928,
+      "sha256": "8fcfc56729ec17e54e730d6b3c08e4048d0ebe7696221cd2216399c96380b75b"
+    },
+    {
+      "path": "ExitOnly.pck",
+      "size": 19721464,
+      "sha256": "b26260ee6ade9f0abb9425b8fab83abc86b007a9df83f72854dd99d6a2e09aff"
+    }
+  ],
+  "fileBaseUrl": "https://github.com/stinoooo/arcnode-releases/releases/download/files/",
+  "launch": {
+    "executable": "ExitOnly.exe",
+    "args": []
+  },
+  "userData": [
+    "ExitOnly"
+  ],
+  "totalSize": 128902392,
+  "notes": {
+    "title": "Settings and smarter police",
+    "highlights": [
+      "A new settings screen with graphics presets and accessibility options",
+      "Reduce flashing: police lights sway instead of strobing",
+      "Smaller updates from now on",
+      "Interceptors hold the intersection until you pass"
+    ],
+    "body": "# Settings and smarter police\n\nNew settings, an option to reduce flashing, and police that cut you off better.\n\n- A new settings screen with graphics presets and accessibility options\n- Reduce flashing: police lights sway instead of strobing\n- Smaller updates from now on\n- Interceptors hold the intersection until you pass\n\nYour settings and scores are kept."
+  }
+}

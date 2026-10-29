@@ -3,6 +3,15 @@
   "gameId": "exit-only",
   "releases": [
     {
+      "version": "0.4.0",
+      "channel": "stable",
+      "releasedAt": "2026-10-29T19:31:29.468Z",
+      "manifest": "games/exit-only/0.4.0/release.json",
+      "manifestSha256": "c06e626d0f9dbd6b6a8fb1ef961e7511a8d7456bc8ccbeb7ed0a8d663c568e91",
+      "title": "Settings and smarter police",
+      "deprecated": false
+    },
+    {
       "version": "0.3.1",
       "channel": "stable",
       "releasedAt": "2026-10-29T19:08:31.865Z",

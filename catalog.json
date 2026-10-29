@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 3,
-  "generatedAt": "2026-10-29T19:08:31.865Z",
+  "sequence": 4,
+  "generatedAt": "2026-10-29T19:31:29.468Z",
   "games": [
     {
       "id": "exit-only",
@@ -39,10 +39,10 @@
       },
       "channels": {
         "stable": {
-          "version": "0.3.1",
-          "manifest": "games/exit-only/0.3.1/release.json",
-          "manifestSha256": "9d875b59bbe217ccfeca263cd760dce61b622007eea749f73ed52eb8b9ac7b3d",
-          "releasedAt": "2026-10-29T19:08:31.865Z"
+          "version": "0.4.0",
+          "manifest": "games/exit-only/0.4.0/release.json",
+          "manifestSha256": "c06e626d0f9dbd6b6a8fb1ef961e7511a8d7456bc8ccbeb7ed0a8d663c568e91",
+          "releasedAt": "2026-10-29T19:31:29.468Z"
         }
       },
       "history": "games/exit-only/releases.json",
