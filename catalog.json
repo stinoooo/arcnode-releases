@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "sequence": 1,
+  "generatedAt": "2026-10-29T18:24:57.460Z",
+  "games": [
+    {
+      "id": "exit-only",
+      "name": "Exit Only",
+      "publisher": "Arcnode",
+      "tagline": "Outsmart the police. Lose the helicopter. Get out.",
+      "description": "A police pursuit through a rainy night city. The police only know where you are when someone can see you: break every line of sight around corners, through traffic and under the Plaza Tunnel, dodge PIT maneuvers and roadblocks, and stay hidden from the helicopter's searchlight until they give up. Also includes Rooftop Rush, a real-time sliding-vehicle puzzle on a gridlocked parking deck.",
+      "accent": "#f2b31c",
+      "genres": [
+        "Driving",
+        "Action",
+        "Puzzle"
+      ],
+      "features": [
+        "Police that chase, cut you off and search where you might be",
+        "A helicopter that hunts with a real searchlight",
+        "PIT maneuvers, roadblocks and five wanted levels",
+        "Rooftop Rush puzzle mode",
+        "Keyboard and gamepad"
+      ],
+      "platforms": [
+        "windows-x64"
+      ],
+      "artwork": {
+        "cover": "games/exit-only/art/3b812f58c78edbb063fe.webp",
+        "banner": "games/exit-only/art/556ca444b4412556efdf.webp",
+        "logo": "games/exit-only/art/9d4ccb57054667ded3bd.png",
+        "icon": "games/exit-only/art/c4a0658bc5e62b8326c9.png",
+        "screenshots": [
+          "games/exit-only/art/eb47feeec120ef7d6f74.webp",
+          "games/exit-only/art/d53313aadccf00d76b1c.webp",
+          "games/exit-only/art/d384cb9375492ee58411.webp",
+          "games/exit-only/art/3f311415908253ca356d.webp"
+        ]
+      },
+      "channels": {
+        "stable": {
+          "version": "0.2.0",
+          "manifest": "games/exit-only/0.2.0/release.json",
+          "manifestSha256": "e729b1f78e3cdb526dc51051536476dec8f2b7943f5dde5e1fa4c5fe13c3e37a",
+          "releasedAt": "2026-10-29T18:24:57.460Z"
+        }
+      },
+      "history": "games/exit-only/releases.json",
+      "unlisted": false
+    }
+  ]
+}

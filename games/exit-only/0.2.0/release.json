@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "gameId": "exit-only",
+  "version": "0.2.0",
+  "channel": "stable",
+  "platform": "windows-x64",
+  "releasedAt": "2026-10-29T18:24:57.460Z",
+  "engine": "Godot 4.7",
+  "package": {
+    "url": "https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.2.0/exit-only-0.2.0-windows-x64.zip",
+    "size": 56405059,
+    "sha256": "a5ce10f5b9037511785d3e520e0bd73ff180c34727079963eed6ff6cb490f36b",
+    "format": "zip"
+  },
+  "files": [
+    {
+      "path": "ExitOnly.exe",
+      "size": 128097248,
+      "sha256": "072e69d73cd77847e9e4a7dee6b339d8695665549adde550e71800362978197b"
+    }
+  ],
+  "fileBaseUrl": "https://github.com/stinoooo/arcnode-releases/releases/download/files/",
+  "launch": {
+    "executable": "ExitOnly.exe",
+    "args": []
+  },
+  "userData": [
+    "ExitOnly"
+  ],
+  "totalSize": 128097248,
+  "notes": {
+    "title": "Most Wanted",
+    "highlights": [
+      "Police that chase, cut you off and search where you might be",
+      "A helicopter that hunts with a searchlight",
+      "PIT maneuvers, roadblocks and five wanted levels"
+    ],
+    "body": "# Most Wanted\n\nExit Only now has a police pursuit through a rainy night city.\n\n- Police that chase, cut you off and search where you might be\n- A helicopter that hunts with a searchlight\n- PIT maneuvers, roadblocks and five wanted levels\n\nThe parking-deck game is still here as Rooftop Rush."
+  }
+}

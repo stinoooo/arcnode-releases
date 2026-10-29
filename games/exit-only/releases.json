@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "gameId": "exit-only",
+  "releases": [
+    {
+      "version": "0.2.0",
+      "channel": "stable",
+      "releasedAt": "2026-10-29T18:24:57.460Z",
+      "manifest": "games/exit-only/0.2.0/release.json",
+      "manifestSha256": "e729b1f78e3cdb526dc51051536476dec8f2b7943f5dde5e1fa4c5fe13c3e37a",
+      "title": "Most Wanted",
+      "deprecated": false
+    }
+  ]
+}
