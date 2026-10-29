@@ -3,6 +3,15 @@
   "gameId": "exit-only",
   "releases": [
     {
+      "version": "0.3.1",
+      "channel": "stable",
+      "releasedAt": "2026-10-29T19:08:31.865Z",
+      "manifest": "games/exit-only/0.3.1/release.json",
+      "manifestSha256": "9d875b59bbe217ccfeca263cd760dce61b622007eea749f73ed52eb8b9ac7b3d",
+      "title": "Linux and macOS",
+      "deprecated": false
+    },
+    {
       "version": "0.3.0",
       "channel": "stable",
       "releasedAt": "2026-10-29T18:52:28.984Z",

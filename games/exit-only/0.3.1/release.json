@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "gameId": "exit-only",
+  "version": "0.3.1",
+  "channel": "stable",
+  "platform": "windows-x64",
+  "releasedAt": "2026-10-29T19:08:31.865Z",
+  "engine": "Godot 4.7",
+  "package": {
+    "url": "https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.3.1/exit-only-0.3.1-windows-x64.zip",
+    "size": 57171748,
+    "sha256": "df1da2b1580cd36cf7ba686cb2534355c989b94ae469ff2155809f65cf9ce503",
+    "format": "zip"
+  },
+  "files": [
+    {
+      "path": "ExitOnly.exe",
+      "size": 128895536,
+      "sha256": "3fdb99a27a8c4ed0848bade46acd92a2deb66cf1bee7244e2f1c7c6f99948d7c"
+    }
+  ],
+  "fileBaseUrl": "https://github.com/stinoooo/arcnode-releases/releases/download/files/",
+  "launch": {
+    "executable": "ExitOnly.exe",
+    "args": []
+  },
+  "userData": [
+    "ExitOnly"
+  ],
+  "totalSize": 128895536,
+  "notes": {
+    "title": "Linux and macOS",
+    "highlights": [
+      "Builds for Linux (64-bit) and macOS (Apple silicon and Intel)",
+      "The menus use the same look on every system"
+    ],
+    "body": "# Linux and macOS\n\nExit Only now runs on Linux and macOS too.\n\n- Builds for Linux (64-bit) and macOS (Apple silicon and Intel)\n- The menus use the same look on every system\n\nWindows plays the same as 0.3.0."
+  }
+}
