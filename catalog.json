@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 1,
-  "generatedAt": "2026-10-29T18:24:57.460Z",
+  "sequence": 2,
+  "generatedAt": "2026-10-29T18:52:28.984Z",
   "games": [
     {
       "id": "exit-only",
@@ -26,10 +26,10 @@
         "windows-x64"
       ],
       "artwork": {
-        "cover": "games/exit-only/art/3b812f58c78edbb063fe.webp",
+        "cover": "games/exit-only/art/a04b61bf26742868f5c8.webp",
         "banner": "games/exit-only/art/556ca444b4412556efdf.webp",
-        "logo": "games/exit-only/art/9d4ccb57054667ded3bd.png",
-        "icon": "games/exit-only/art/c4a0658bc5e62b8326c9.png",
+        "logo": "games/exit-only/art/f0d278a3135b562c2302.png",
+        "icon": "games/exit-only/art/689f6239fca920a0c645.png",
         "screenshots": [
           "games/exit-only/art/eb47feeec120ef7d6f74.webp",
           "games/exit-only/art/d53313aadccf00d76b1c.webp",
@@ -39,10 +39,10 @@
       },
       "channels": {
         "stable": {
-          "version": "0.2.0",
-          "manifest": "games/exit-only/0.2.0/release.json",
-          "manifestSha256": "e729b1f78e3cdb526dc51051536476dec8f2b7943f5dde5e1fa4c5fe13c3e37a",
-          "releasedAt": "2026-10-29T18:24:57.460Z"
+          "version": "0.3.0",
+          "manifest": "games/exit-only/0.3.0/release.json",
+          "manifestSha256": "a8d448eef07b85d77f2e92776c5861625b8f73b17235743bea69cd0f3122dee0",
+          "releasedAt": "2026-10-29T18:52:28.984Z"
         }
       },
       "history": "games/exit-only/releases.json",

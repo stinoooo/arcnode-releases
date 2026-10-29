@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "gameId": "exit-only",
+  "version": "0.3.0",
+  "channel": "stable",
+  "platform": "windows-x64",
+  "releasedAt": "2026-10-29T18:52:28.984Z",
+  "engine": "Godot 4.7",
+  "package": {
+    "url": "https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.3.0/exit-only-0.3.0-windows-x64.zip",
+    "size": 57111437,
+    "sha256": "80a16ac0bd1945b5349bafcdbb6ef2e9fb1f0718525e5b0ddc43bf291dd5e2b4",
+    "format": "zip"
+  },
+  "files": [
+    {
+      "path": "ExitOnly.exe",
+      "size": 128834168,
+      "sha256": "b3c88edd89303c6222db5df240c0725f5ea44eedc7827a47321003d5541da552"
+    }
+  ],
+  "fileBaseUrl": "https://github.com/stinoooo/arcnode-releases/releases/download/files/",
+  "launch": {
+    "executable": "ExitOnly.exe",
+    "args": []
+  },
+  "userData": [
+    "ExitOnly"
+  ],
+  "totalSize": 128834168,
+  "notes": {
+    "title": "A new look",
+    "highlights": [
+      "A start-up intro with the Arcnode logo and a title that slams in under police lights",
+      "A new Exit Only logo, and an app icon made from it",
+      "A short privacy and photosensitivity notice before you play"
+    ],
+    "body": "# A new look\n\nExit Only now opens like a full game, with a new logo and icon.\n\n- A start-up intro with the Arcnode logo and a title that slams in under police lights\n- A new Exit Only logo, and an app icon made from it\n- A short privacy and photosensitivity notice before you play\n\nAny key moves through the intro and Esc skips it. You can turn it off in Settings."
+  }
+}

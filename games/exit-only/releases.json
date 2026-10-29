@@ -3,6 +3,15 @@
   "gameId": "exit-only",
   "releases": [
     {
+      "version": "0.3.0",
+      "channel": "stable",
+      "releasedAt": "2026-10-29T18:52:28.984Z",
+      "manifest": "games/exit-only/0.3.0/release.json",
+      "manifestSha256": "a8d448eef07b85d77f2e92776c5861625b8f73b17235743bea69cd0f3122dee0",
+      "title": "A new look",
+      "deprecated": false
+    },
+    {
       "version": "0.2.0",
       "channel": "stable",
       "releasedAt": "2026-10-29T18:24:57.460Z",
