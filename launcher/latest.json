@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "The first release of Arcnode Games.",
+  "pub_date": "2026-10-29T20:40:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTdZWlJDWitjNnVXa0lkQTQzOFZ5NWgyYlpwVzNKc1l3RFZZbGNUZTc5S0c2WWIvbHNtOWhVQ2FYRE1NeE0wRjMzTU1FSHVxaW40YXpQV1ZEa1dPVEtFanNaZmxkRVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzA2Mjc3CWZpbGU6QXJjbm9kZSBHYW1lc18wLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKOUpUdE1HL1JET0o2djAvUHVEZ2NhZVpGQitUZWYraGFvOE5hbmJONHdJS1NtSWFGSUd5Z0tRV1hwYm0xOEtsRGZ6NmdzVlY4MFRjMC8zSkttTkNCQ3c9PQo=",
+      "url": "https://github.com/stinoooo/arcnode-releases/releases/download/launcher-0.1.0/ArcnodeGames_0.1.0_x64-setup.exe"
+    }
+  }
+}
