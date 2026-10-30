@@ -1,19 +1,23 @@
 # arcnode-releases
 
-Signed game releases for [Arcnode Games](https://arcnode.dev/downloads): the catalog,
+Signed game releases for [Arcnode Games](https://arcnode.dev/downloads#arcnode-games): the catalog,
 the release manifests and the packages. The Arcnode Games launcher and each game's own
 updater read everything from here.
 
-Nothing in this repository is edited by hand. `arcnode-publish` (in
-[`stinoooo/arcnode`](https://github.com/stinoooo/arcnode), see `publishing/`) signs
-and writes every file, so every file a client trusts carries an Ed25519 signature.
+Nothing in this repository is edited by hand. Arcnode's publishing tool,
+`arcnode-publish`, signs and writes every file, so every file a client trusts carries
+an Ed25519 signature. The public keys that verify them are built into the launcher.
 
 ## Current releases
 
-| Product | Version | Channel | Released | Download |
-| --- | --- | --- | --- | --- |
-| Exit Only | 0.5.0 "The pursuit overhaul" | stable | 2026-10-30 | [Windows](https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.5.0/exit-only-0.5.0-windows-x64.zip), [Linux](https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.5.0/exit-only-0.5.0-linux-x64.tar.gz), [macOS](https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.5.0/exit-only-0.5.0-macos-universal.zip) |
-| Arcnode Games (launcher) | 0.1.0 | stable | 2026-10-29 | [Windows installer](https://arcnode.dev/api/download/launcher) |
+| Product | Version | Channel | Released |
+| --- | --- | --- | --- |
+| Exit Only | 0.5.0 "The pursuit overhaul" | stable | 2026-10-30 |
+| Arcnode Games (launcher) | 0.1.0 | stable | 2026-10-29 |
+
+Arcnode games are installed and updated through Arcnode Games, which verifies every
+file before it uses it. Get the launcher at
+[arcnode.dev/downloads](https://arcnode.dev/downloads#arcnode-games).
 
 The catalog is at sequence 6. Clients refuse a catalog with a lower sequence than the
 highest one they have seen, so it only ever goes up.
@@ -43,7 +47,8 @@ launcher/latest.json                    the launcher's own update feed (minisign
 
 The packages themselves are GitHub Release assets:
 
-- `<game>-<version>`: the full game package per platform;
+- `<game>-<version>`: the full game package. Only the Windows package is pinned by a
+  signed manifest; any Linux or macOS archive on the same release has none;
 - `files`: individual game files by SHA-256, so an update only downloads what changed;
 - `launcher-<version>`: the Arcnode Games installer.
 
