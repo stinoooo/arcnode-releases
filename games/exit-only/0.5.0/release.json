@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "gameId": "exit-only",
+  "version": "0.5.0",
+  "channel": "stable",
+  "platform": "windows-x64",
+  "releasedAt": "2026-10-30T00:52:49.083Z",
+  "engine": "Godot 4.7",
+  "package": {
+    "url": "https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.5.0/exit-only-0.5.0-windows-x64.zip",
+    "size": 63560684,
+    "sha256": "f201e20dd39108e53edc2e5f6dd1bd6ea35f62880e333b605618f0cb36e6b3ed",
+    "format": "zip"
+  },
+  "files": [
+    {
+      "path": "ExitOnly.exe",
+      "size": 109180928,
+      "sha256": "8fcfc56729ec17e54e730d6b3c08e4048d0ebe7696221cd2216399c96380b75b"
+    },
+    {
+      "path": "ExitOnly.pck",
+      "size": 24807384,
+      "sha256": "62c7ddc76de30a5e84606212c98373aa67ceb96b6022d951515caea1cb92d281"
+    },
+    {
+      "path": "arcnode-game-updater.exe",
+      "size": 3037184,
+      "sha256": "2c7d835db7403e75c6014d422903e565a885217d5de1f550cebe10be322e5704"
+    }
+  ],
+  "fileBaseUrl": "https://github.com/stinoooo/arcnode-releases/releases/download/files/",
+  "launch": {
+    "executable": "ExitOnly.exe",
+    "args": []
+  },
+  "userData": [
+    "ExitOnly"
+  ],
+  "totalSize": 137025496,
+  "notes": {
+    "title": "The pursuit overhaul",
+    "highlights": [],
+    "body": "# The pursuit overhaul\n\nThe pursuit overhaul: a night city that changes every run, crash damage you can see, real driving, smarter and scarier police, gadgets to fight back, and undo and hints in Rooftop Rush.\n\n## What's new\n- **A different city every run.** A rainy night city full of life: lit shops, awnings, trees, bus stops, traffic lights and parked cars in real parking bays. Each run picks its own hour, weather and traffic, and a street or two may be shut for roadworks or a night market. Same city replays one you liked.\n- **Crashes leave their mark.** Dents, scraped paint, cracked and shattered glass, dead lamps, bumpers and doors that hang loose and then tear off onto the road. Engines steam, smoke and catch fire, and wrecks burn. The police cars take it too.\n- **Real driving.** Gears, grip that gives way into a slide, drifts you catch with countersteer, brakes that bite, a body that dips and rolls. A steering assist (on by default) keeps you straight when you let go.\n- **A proper start.** The camera sweeps down over the city, a patrol car lights up, and 3, 2, 1, GO. Launch with the revs just right for a nitro burst.\n- **Police that hunt differently.** Six wanted levels with roadblocks, spike strips and charging rhinos. Fast interceptors cut you off ahead, heavy SUVs ram you and come back for more, and unmarked cars run without lights and stay off your map until they are on you.\n- **Fight back.** Nitro, oil slicks, spike strips and smoke screens, refilled from glowing crates around the city.\n- **A cleaner screen.** Points and alerts now sit at the edges instead of over your car, and your car stays easy to see on dark roads.\n- **Rooftop Rush helpers.** Z or Backspace undoes your last slide. H lights up the next slide when you are stuck, at the cost of that driver's clean-exit bonus.\n- **Fixes.** Try again now repeats the mode you played: a Daily stays the Daily, and a Getaway starts on the roof again. A busted car can no longer roll away. The results show the right personal best."
+  }
+}
