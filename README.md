@@ -15,7 +15,7 @@ and writes every file, so every file a client trusts carries an Ed25519 signatur
 | Exit Only | 0.5.0 "The pursuit overhaul" | stable | 2026-10-30 | [Windows](https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.5.0/exit-only-0.5.0-windows-x64.zip), [Linux](https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.5.0/exit-only-0.5.0-linux-x64.tar.gz), [macOS](https://github.com/stinoooo/arcnode-releases/releases/download/exit-only-0.5.0/exit-only-0.5.0-macos-universal.zip) |
 | Arcnode Games (launcher) | 0.1.0 | stable | 2026-10-29 | [Windows installer](https://arcnode.dev/api/download/launcher) |
 
-The catalog is at sequence 5. Clients refuse a catalog with a lower sequence than the
+The catalog is at sequence 6. Clients refuse a catalog with a lower sequence than the
 highest one they have seen, so it only ever goes up.
 
 ### Exit Only history
