@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "The first release of Arcnode Games.",
-  "pub_date": "2026-10-29T20:40:00Z",
+  "version": "0.1.1",
+  "notes": "The Arcnode mark without the dark square as the app icon, a wider settings column with larger text, and Arcnode named as the installer's company.",
+  "pub_date": "2026-10-30T18:50:20Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTdZWlJDWitjNnVXa0lkQTQzOFZ5NWgyYlpwVzNKc1l3RFZZbGNUZTc5S0c2WWIvbHNtOWhVQ2FYRE1NeE0wRjMzTU1FSHVxaW40YXpQV1ZEa1dPVEtFanNaZmxkRVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzA2Mjc3CWZpbGU6QXJjbm9kZSBHYW1lc18wLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKOUpUdE1HL1JET0o2djAvUHVEZ2NhZVpGQitUZWYraGFvOE5hbmJONHdJS1NtSWFGSUd5Z0tRV1hwYm0xOEtsRGZ6NmdzVlY4MFRjMC8zSkttTkNCQ3c9PQo=",
-      "url": "https://github.com/stinoooo/arcnode-releases/releases/download/launcher-0.1.0/ArcnodeGames_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTdZWlJDWitjNmowdjVzcWR1U2l3VjYvS25zRDliWnlLVmx4eHZhdjhwd2pKbENBNXJteE4yTElodU9YRS95Q3NXUm5DMUtEbGJUMVVpalE5R3lMSDYzLzNCMGt2L0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg2MjA2CWZpbGU6QXJjbm9kZSBHYW1lc18wLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKOU10ZjNwR3N1VDd3YnlCTU12RnZCUVhTWGRTa1BsQk9KNEZkdzZNb0JWck1iVGJzc0VTcXdnVnh5d1pRZ2ZQa0ZPaTl5eXFKOVJGcmVBdi9rMGh0Q0E9PQo=",
+      "url": "https://github.com/stinoooo/arcnode-releases/releases/download/launcher-0.1.1/ArcnodeGames_0.1.1_x64-setup.exe"
     }
   }
 }
