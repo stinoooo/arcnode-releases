@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "sequence": 5,
-  "generatedAt": "2026-10-30T00:52:49.083Z",
+  "sequence": 6,
+  "generatedAt": "2026-10-30T02:10:02.333Z",
   "games": [
     {
       "id": "exit-only",
       "name": "Exit Only",
       "publisher": "Arcnode",
       "tagline": "Outsmart the police. Lose the helicopter. Get out.",
-      "description": "A police pursuit through a rainy night city. The police only know where you are when someone can see you: break every line of sight around corners, through traffic and under the Plaza Tunnel, dodge PIT maneuvers and roadblocks, and stay hidden from the helicopter's searchlight until they give up. Also includes Rooftop Rush, a real-time sliding-vehicle puzzle on a gridlocked parking deck.",
+      "description": "A police pursuit through a rainy night city that changes every run: its hour, weather and traffic, and the streets shut for roadworks or a night market. The police only know where you are when someone can see you: break every line of sight around corners, through traffic and under the Plaza Tunnel, fight back with nitro, oil, spikes and smoke, and stay hidden from the helicopter's searchlight until they give up. Every crash leaves its mark on your car and theirs. Also includes Rooftop Rush, a real-time sliding-vehicle puzzle on a gridlocked parking deck.",
       "accent": "#f2b31c",
       "genres": [
         "Driving",
@@ -16,9 +16,12 @@
         "Puzzle"
       ],
       "features": [
-        "Police that chase, cut you off and search where you might be",
+        "A different night city every run: closures, weather and traffic",
+        "Police that chase, cut you off, ram you and run dark, over six wanted levels",
         "A helicopter that hunts with a real searchlight",
-        "PIT maneuvers, roadblocks and five wanted levels",
+        "Crash damage you can see on every car",
+        "Gadgets: nitro, oil, spikes and smoke",
+        "Real driving: gears, grip and drifts",
         "Rooftop Rush puzzle mode",
         "Keyboard and gamepad"
       ],
@@ -26,15 +29,17 @@
         "windows-x64"
       ],
       "artwork": {
-        "cover": "games/exit-only/art/a04b61bf26742868f5c8.webp",
-        "banner": "games/exit-only/art/556ca444b4412556efdf.webp",
+        "cover": "games/exit-only/art/666d94244f3a08a3d8f6.webp",
+        "banner": "games/exit-only/art/3e46b20b806b633551a7.webp",
         "logo": "games/exit-only/art/f0d278a3135b562c2302.png",
         "icon": "games/exit-only/art/689f6239fca920a0c645.png",
         "screenshots": [
-          "games/exit-only/art/eb47feeec120ef7d6f74.webp",
-          "games/exit-only/art/d53313aadccf00d76b1c.webp",
-          "games/exit-only/art/d384cb9375492ee58411.webp",
-          "games/exit-only/art/3f311415908253ca356d.webp"
+          "games/exit-only/art/b23818b72df19146ef60.webp",
+          "games/exit-only/art/5e748cf6eeef2c7d574d.webp",
+          "games/exit-only/art/799d78fc7ad136f1fdcf.webp",
+          "games/exit-only/art/2c0853223b3bff63de2b.webp",
+          "games/exit-only/art/912c2fe96662c6b3547d.webp",
+          "games/exit-only/art/ac2a27d20cc8685b9c5d.webp"
         ]
       },
       "channels": {
