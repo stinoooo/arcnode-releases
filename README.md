@@ -47,13 +47,26 @@ launcher/latest.json                    the launcher's own update feed (minisign
 
 The packages themselves are GitHub Release assets:
 
-- `<game>-<version>`: the full game package. Only the Windows package is pinned by a
-  signed manifest; any Linux or macOS archive on the same release has none;
+- `<game>-<version>`: the full Windows game package, pinned by its signed manifest;
 - `files`: individual game files by SHA-256, so an update only downloads what changed;
 - `launcher-<version>`: the Arcnode Games installer.
 
 The catalog pins the SHA-256 of each manifest, and each manifest pins the size and
 SHA-256 of every file, so a client verifies everything it downloads before using it.
+
+## Commits
+
+`main` changes in two ways only:
+
+- **Publishing** commits straight to `main`, because GitHub Pages serves it. This is
+  the one exception to pull requests: such a commit holds only files the publishing
+  tool signed, and every launcher verifies them. Messages are
+  `release(<game>): publish <version> (<channel>)`, `chore(listing): update <game>`,
+  `release(<game>): deprecate <version>` and `release(launcher): publish <version>`.
+- **Everything else** (this README, settings) goes through a pull request.
+
+Only Windows game packages are published, and nothing is attached to these releases by
+hand: games are installed through Arcnode Games.
 
 ## Line endings
 
